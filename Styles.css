@@ -1,0 +1,60 @@
+/*Tag Selectors
+Example: body {
+}
+*/
+body {
+	background-color:  yellow;
+}
+
+h1 {
+	color: cornflowerblue;
+}
+
+h3 {
+	color: violet;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: chocolate;
+	border-width: 8px;
+	width: 5%;
+}
+
+
+img:hover {
+	background-color: red;
+}
+
+/*CSS Comment style*/
+
+
+/*
+Class Selectors Below with .name
+*/
+
+.fireForce {
+	background-color: auto;
+	border-style: groove;
+
+}
+.circular {
+	border-radius: 300%;
+}
+
+/*ID Selector Below
+*/
+#heading {
+	color: blue;
+}
+
+/*#big {
+	font-size: 100px;
+}
+This is an example of  not valid ID use for h3 for Anime Reviews
+Can't have more than one ID in this case
+*/
+
+
+
